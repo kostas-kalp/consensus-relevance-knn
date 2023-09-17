@@ -1,0 +1,12 @@
+.idea/
+papers/*
+data/*
+test-UCI/*
+#results/
+#results2020/
+results*/**/*.dat
+results*/**/*.dir
+results*/**/*.bak
+sql/
+#*.dat
+kklearn/*/__pycache__/*
